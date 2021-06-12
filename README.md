@@ -1,4 +1,4 @@
-Optimal view of the project for HTML:
+Optimal view of the project:
 https://nbviewer.jupyter.org/github/AkimParis/ner_japanese/blob/main/Masa_SB.ipynb 
 
 Research project on tweets of Masayoshi Son (Softbank):
